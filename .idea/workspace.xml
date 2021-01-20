@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14c32aba-3033-4e12-b6e0-493f48ff346e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="403e8f92-8d02-41d6-9a5d-adb3d49a5a1c" />
+  <component name="ProjectId" id="1n7K4PEsmqQ1mSCVMnXGtvoKTPk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.recognize">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python-Project-Traffic-Sign-Classification (1)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project-Traffic-Sign-Classification (1)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Traffic sign classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Traffic sign classification/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recognize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project-Traffic-Sign-Classification (1)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recognize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="traffic_sign" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project-Traffic-Sign-Classification (1)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Traffic sign classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Traffic sign classification/traffic_sign.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.recognize" />
+        <item itemvalue="Python.gui" />
+        <item itemvalue="Python.traffic_sign" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14c32aba-3033-4e12-b6e0-493f48ff346e" name="Default Changelist" comment="" />
+      <created>1610735496293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610735496293</updated>
+      <workItem from="1610735497616" duration="6687000" />
+      <workItem from="1610888080200" duration="4413000" />
+      <workItem from="1610920463116" duration="15988000" />
+      <workItem from="1611086086370" duration="23000" />
+      <workItem from="1611086232483" duration="83000" />
+      <workItem from="1611086331328" duration="19000" />
+      <workItem from="1611086351595" duration="12000" />
+      <workItem from="1611086467127" duration="12000" />
+      <workItem from="1611086516889" duration="17000" />
+      <workItem from="1611086535235" duration="1587000" />
+      <workItem from="1611088228002" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1611086532099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1611086532099" />
+    <state width="1493" height="159" key="GridCell.Tab.0.bottom" timestamp="1611086043482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1611086043482" />
+    <state width="1317" height="159" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1610987726314" />
+    <state width="1493" height="159" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611046124194" />
+    <state width="1493" height="159" key="GridCell.Tab.0.center" timestamp="1611086043481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1611086043481" />
+    <state width="1317" height="159" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1610987726314" />
+    <state width="1493" height="159" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611046124194" />
+    <state width="1493" height="159" key="GridCell.Tab.0.left" timestamp="1611086043481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1611086043481" />
+    <state width="1317" height="159" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1610987726314" />
+    <state width="1493" height="159" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611046124194" />
+    <state width="1493" height="159" key="GridCell.Tab.0.right" timestamp="1611086043481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1611086043481" />
+    <state width="1317" height="159" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1610987726314" />
+    <state width="1493" height="159" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611046124194" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1610962023257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1610962023257" />
+    <state x="2332" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1611088227854">
+      <screen x="1920" y="0" width="1360" height="728" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1611086517196" />
+    <state x="2332" y="209" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1611088227854" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1610961952929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1610961952929" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Project_Traffic_Sign_Classification__1_$gui.coverage" NAME="gui Coverage Results" MODIFIED="1611046124185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Traffic sign classification" />
+  </component>
+</project>
